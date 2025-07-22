@@ -30,7 +30,7 @@
 
 ###
 
-<h3 align="center">🔭 I’m currently working on **raidvm.com**<br>💡 My server minecraft **dc.fadecraft.pl**<br>⭐ Minecraft plugin technician<br>📱Connect with me: **blocksky** on discord</h3>
+<h3 align="center">🔭 I’m currently working on raidvm.com<br>💡 My server minecraft dc.fadecraft.pl<br>⭐ Minecraft plugin technician<br>📱My discord: blocksky</h3>
 
 ###
 
