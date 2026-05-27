@@ -15,7 +15,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-BlockSkY.cloud-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://blocksky.cloud)
 [![Email](https://img.shields.io/badge/Email-kontakt@blocksky.cloud-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kontakt@blocksky.cloud)
-[![Company](https://img.shields.io/badge/Fanth_sp._z_o.o.-Work-9B59B6?style=for-the-badge&logo=briefcase&logoColor=white)](https://blocksky.cloud)
+[![Company](https://img.shields.io/badge/Fanth_sp._z_o.o.-Work-9B59B6?style=for-the-badge&logo=briefcase&logoColor=white)](https://fanth.pl)
 
 </div>
 
@@ -77,7 +77,7 @@ const blocksky = {
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Coolify](https://img.shields.io/badge/Coolify-6C3483?style=for-the-badge&logo=coolify&logoColor=white)
 ![Minecraft](https://img.shields.io/badge/Minecraft_Servers-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
