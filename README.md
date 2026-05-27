@@ -15,7 +15,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-BlockSkY.cloud-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://blocksky.cloud)
 [![Email](https://img.shields.io/badge/Email-kontakt@blocksky.cloud-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kontakt@blocksky.cloud)
-[![Company](https://img.shields.io/badge/Fanth_sp._z_o.o.-Work-9B59B6?style=for-the-badge&logo=briefcase&logoColor=white)](https://fanth.pl)
+[![Company](https://img.shields.io/badge/Fanth_sp._z_o.o.-Work-9B59B6?style=for-the-badge&logo=briefcase&logoColor=white)](https://blocksky.cloud)
 
 </div>
 
@@ -77,7 +77,7 @@ const blocksky = {
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Coolify](https://img.shields.io/badge/Coolify-6C3483?style=for-the-badge&logo=coolify&logoColor=white)
 ![Minecraft](https://img.shields.io/badge/Minecraft_Servers-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
@@ -87,6 +87,8 @@ const blocksky = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### <img src="https://cdn.simpleicons.org/linux/00D4FF" width="20"/> Other Tools
